@@ -1,0 +1,44 @@
+.each-item{
+    width: 65%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px 50px 20px 50px;
+    box-shadow: 1px 1px 1px 1px rgb(221, 220, 220)
+}
+.card-link{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.poster{
+    height: 300px;
+    width: 180px;
+}
+.info-container{
+    margin-left: 30px;
+}
+.movie-title{
+    font-family: sans-serif;
+    font-size: 35px;
+    color: #2d2b2b;
+    padding-bottom: 10px;
+}
+.release-date{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #2d2b2b;
+    padding-bottom: 10px;
+}
+.rating{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #2d2b2b;   
+    padding-bottom: 10px;
+}
+.overview{
+    font-family: sans-serif;
+    font-size: 17px;
+    color: #2d2b2b;  
+    font-weight: 600;
+}
